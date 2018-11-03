@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MainFeedback</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\SiddharthChamarthy\Documents\GitHub\HololensFeedback\MainFeedback\RandBuild\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\SiddharthChamarthy\Documents\GitHub\HoloLensProjects\Visual Gait Feedback\MainFeedback\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

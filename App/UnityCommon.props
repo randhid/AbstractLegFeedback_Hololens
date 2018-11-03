@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MainFeedback</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Rand\Dropbox\MainFeedback\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Rand\Dropbox\MainFeedback\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
