@@ -61,7 +61,7 @@ public class UDPResponse : MonoBehaviour
         
         Transform point1 = points[1];
         Vector3 position1 = point1.localPosition;
-        position1.x = thighlength * Mathf.Cos((float)hipflexion_r);
+        position1.x = thighlength * Mathf.Cos((float)hipflexion_r);+
         position1.y = thighlength * Mathf.Sin((float)hipflexion_r);
         position1.z = 0f;
         point1.localPosition = position1;
